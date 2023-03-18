@@ -4,5 +4,7 @@
 ### Here are the methods used to implement the algorithms:
 - Linear Regression 
     - Gradient Descent
+- Logistic Regression
+    - Gradient Descent
 
 # ...
