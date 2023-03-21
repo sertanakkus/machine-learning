@@ -6,5 +6,7 @@
     - Gradient Descent
 - Logistic Regression
     - Gradient Descent
+- K-Nearest Neighbors (KNN)
+    - Euclidean Distance
 
 # ...
