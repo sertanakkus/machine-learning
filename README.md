@@ -8,5 +8,7 @@
     - Gradient Descent
 - K-Nearest Neighbors (KNN)
     - Euclidean Distance
+- Support Vector Machine (SVM)
+    - Gradient Descent on Hinge Loss
 
 # ...
